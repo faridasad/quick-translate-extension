@@ -1,0 +1,20 @@
+.popup-wrapper-asdgashj {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1rem;
+  background-color: #222;
+}
+
+.popup-header-asdjhkjsd {
+  text-align: center;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.success-text-assdhjasd {
+  color: gold;
+  font-size: 0.8rem;
+  text-align: center;
+}
