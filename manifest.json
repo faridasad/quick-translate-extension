@@ -11,7 +11,19 @@
     }
   ],
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/title-icon.png",
+      "32": "/images/title-icon.png",
+      "48": "/images/title-icon.png",
+      "128": "/images/title-icon.png"
+    }
+  },
+  "icons": {
+    "16": "/images/title-icon.png",
+    "32": "/images/title-icon.png",
+    "48": "/images/title-icon.png",
+    "128": "/images/title-icon.png"
   },
   "permissions": ["storage"]
 }
