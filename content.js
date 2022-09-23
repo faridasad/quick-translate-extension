@@ -34,7 +34,7 @@ window.addEventListener("mouseup", (e) => {
           justify-content: center;
           align-items: center;
           flex-wrap: wrap;
-          max-width: 100px;
+          max-width: 300px;
           font-size: 1rem;
           background-color: #222;
           color: #fff;
